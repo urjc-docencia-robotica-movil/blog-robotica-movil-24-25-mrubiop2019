@@ -22,3 +22,6 @@ La distancia que el robot avanza tras girar disminuye cuanto mayor sea esta vari
 
 ## Video demostrativo
 
+El siguiente video muestra el compertamiento del algoritmo en un lapso de 20 minutos a velocidad x8
+
+https://urjc-my.sharepoint.com/:v:/g/personal/m_rubiop_2019_alumnos_urjc_es/EVEanxZ-P-hLuUZy0Dy1pYkBny49IRpD8B7IMd7QD6lr3A?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=pvxdCr
