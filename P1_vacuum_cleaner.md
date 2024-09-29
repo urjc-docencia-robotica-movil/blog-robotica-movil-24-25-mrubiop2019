@@ -16,6 +16,7 @@ En el caso de las duraciones, quería que tanto el giro como el movimiento hacia
 
 En el caso del giro, acabe determinando una duracione entre 0.5 y 1.5 segundos, proporcionando giros de aproximadamente 45 a 135 grados. 
 Sin embargo, el movimiento recto presentaba una dificultad adicional. Si era demasiado pequeño, el robot no avanzaba a nuevas regiones de la casa, mientras que si era demasiado grande, el robot se atascaba con mayor facilidad en espacios cerrados sin entrar en movimiento espiral.
+
 Para solucionarlo, añadí una variable "bumps" que cuenta las veces que el robot se ha chocado sin entrar en el estado de espiral. 
 La distancia que el robot avanza tras girar disminuye cuanto mayor sea esta variable, haciendo así que los movimientos hacia adelante se vuelvan más cortos en espacios cerrados.
 
